@@ -1,0 +1,5 @@
+{
+  "name": "Context Book - AI Chat Organizer",
+  "description": "Transforms long chat logs into a structured book format with a table of contents, summaries, and full text navigation using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
